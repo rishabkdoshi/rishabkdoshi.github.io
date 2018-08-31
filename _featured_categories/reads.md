@@ -41,11 +41,11 @@ Although, I enjoy reading books, I haven't been able to read much over the last 
 <table>
 	<tr style="padding:20px">
 		<td style="padding:20px">
-			<a href="https://www.goodreads.com/book/show/40720899-hit-refresh">Hit Refresh</a>
+			<a href="https://rishabkdoshi.github.io/personal-website/writes/2018/06/01/hit-refresh/">Hit Refresh</a>
 			<img src="https://images.gr-assets.com/books/1506565784l/30835567.jpg" height="250" width="150" />
 		</td>
 		<td style="padding:20px">
-			<a href="https://www.goodreads.com/book/show/34890015-factfulness">Factfulness</a>
+			<a href="https://rishabkdoshi.github.io/personal-website/writes/2018/06/18/factfulness/">Factfulness</a>
 			<img src="https://images.gr-assets.com/books/1506097470l/34890015.jpg" height="250" width="150" />
 		</td>
 		<td style="padding:20px">
