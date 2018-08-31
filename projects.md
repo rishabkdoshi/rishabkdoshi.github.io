@@ -24,7 +24,7 @@ I have worked on a variety of Projects during my time at Intuit, India as well a
 ## Intuit
 ### API-Gateway and Service Registry
 <p style="text-align: justify;text-justify: inter-word;">
-The <a href="https://whatis.techtarget.com/definition/API-gateway-application-programming-interface-gateway">API-Gateway</a> provides common functionality like authentication, authorization, throttling etc for web-services behind it. The <a href="https://microservices.io/patterns/service-registry.html">Service Registry</a> is a centralized data-store that has the configuration metadata for the web-services in the enterprise. Although, I was on the gateway registry team for only a brief period, the learning was incredible. Was exposed to Microservice Architecture, Software Design Patterns, Web-Services, DevOps terminologies(deployment and failover strategies) and much more.
+The <a href="https://whatis.techtarget.com/definition/API-gateway-application-programming-interface-gateway" target="_blank">API-Gateway</a> provides common functionality like authentication, authorization, throttling etc for web-services behind it. The <a href="https://microservices.io/patterns/service-registry.html" target="_blank">Service Registry</a> is a centralized data-store that has the configuration metadata for the web-services in the enterprise. Although, I was on the gateway registry team for only a brief period, the learning was incredible. Was exposed to Microservice Architecture, Software Design Patterns, Web-Services, DevOps terminologies(deployment and failover strategies) and much more.
 </p>
 
 ### Application and Network health monitoring tools: 
