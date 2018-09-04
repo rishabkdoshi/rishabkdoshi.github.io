@@ -18,3 +18,20 @@ hide_description: true
 menu: true
 ---
 
+<h3 style="background-color: black;color: white;font-family:  monospace;">
+    $ whoami<br>rkd
+    </h3>
+    <div style="text-align: justify;text-justify: inter-word;"> I am Rishab Ketan Doshi(<b>RKD!</b>).
+    I am a Computer Science Graduate student at UCLA.
+    Prior to joining UCLA, I was a Software Engineer in the Platform & Tools Engineering group at Intuit, India.
+    <br>
+    I am passionate about technology, programming, entrepreneurship and watching TV shows. 
+    As an advocate of Experiential Learning, I am constantly looking to discover new experiences that educate and are also fun!
+    </div>
+    <br>
+    
+More about me:
+    
+CV built using jsonresume. <br>
+[Timeline](/rishab-timeline/) of my life. <br>
+Some [people](/category/muse/) I look up to. <br>
