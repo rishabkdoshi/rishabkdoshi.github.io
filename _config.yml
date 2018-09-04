@@ -62,7 +62,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/rkd_sidebar.png
+accent_image:          /assets/img/rishab_sidebar.JPG
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
