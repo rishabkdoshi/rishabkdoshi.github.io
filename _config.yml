@@ -27,11 +27,11 @@ title:                 Rishab Ketan Doshi
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Computer Engineer, Entrepreneur at heart. Passionate about solving problems.
+  CS Grad Student @UCLA, Engineer, Entrepreneur at heart!
 
 # A shorter description for the sidebar.
 tagline:               >
-  CS Grad, Engineer, Entrepreneur at heart!
+  CS Grad Student @UCLA, Engineer, Entrepreneur at heart!
 
 # A list of keywords for your blog.
 keywords:              [engineering, entrepreneurship, computer science, tv]
@@ -62,7 +62,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/rkd_sidebar.png
+accent_image:          /assets/img/rishab_sidebar.JPG
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
