@@ -37,7 +37,7 @@ tagline:               >
 keywords:              [engineering, entrepreneurship, computer science, tv]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/rkd_sidebar.png
+# logo:                  /assets/img/rkd_sidebar.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
