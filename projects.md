@@ -53,6 +53,8 @@ Product video below:
 This project was accepted as a <a href="https://ieeexplore.ieee.org/document/8340633">paper publication</a> at <a href="https://easychair.org/cfp/CICT2017">IEEE-Conference of Information and Communication Technology</a>.
 </p>
 
+Github repo [here](https://github.com/rishabkdoshi/SemAcSearch).
+
 ### TCP-IP stack
 <p style="text-align: justify;text-justify: inter-word;">
 Simulated the entire TCP-IP stack in C, starting from application layer to physical layer.  This was done as project for the undergraduate course on Computer Communication and Networking.
