@@ -22,7 +22,7 @@ menu: false
 Topgun is a quarterly award given to <5 out of 700+ engineers at Intuit, India. 
 I was given this award in FY17-Q2(09-March-2017), within a year of joining Intuit. Received it in the category: <i><b>'Learn Fast'</b></i>.
 
-![Rishab receiving the award from Lucase Watson, Intuit's Executive Vice President](/rishab-timeline/img/topgun.jpg).
+![Rishab receiving the award from Lucase Watson, Intuit's Executive Vice President](/rishab-timeline/img/topgun.jpg)
 Above is me receiving the award from Lucase Watson, Intuit's Executive Vice President.
 <br><br><br>
 ![Rishab's topgun certificate](/assets/img/topgun_cert.png)
