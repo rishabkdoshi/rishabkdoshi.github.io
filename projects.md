@@ -48,16 +48,20 @@ Product video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mX4MBeReyhA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
+### SemAcSearch: A semantically modeled academic search engine
+<p style="text-align: justify;text-justify: inter-word;">Built an academic search engine prototype using Basic PHP, HTML, MySQL. To simulate a crawler, built a form that allowed users to upload Academic Papers. Uploaded papers were then parsed and keywords indexed into a MySQL Database. Implemented a configurable page-ranking module that allowed tuning of ranking parameters and the page-rank function used. This was then used to compare performance of various page ranking algorithms.
+This project was accepted as a [paper publication](https://ieeexplore.ieee.org/document/8340633) at [IEEE-Conference of Information and Communication Technology](https://easychair.org/cfp/CICT2017).
+
 ### TCP-IP stack
 <p style="text-align: justify;text-justify: inter-word;">
-Simulated the entire TCP-IP stack in C, starting from application layer to physical layer.  This was done as project for the undergraduate course on Computer Networks.
+Simulated the entire TCP-IP stack in C, starting from application layer to physical layer.  This was done as project for the undergraduate course on Computer Communication and Networking.
 </p>
 
 Github repo [here](https://github.com/rishabkdoshi/MiniTCPIPStack).
 
 ### Regular Expression Parser
 <p style="text-align: justify;text-justify: inter-word;">
-Implemented a Regular expression engine parser in java. This was done as a project for the undergraduate course on Automata Theory.
+Implemented a Regular expression engine parser in java. This was done as a project for the undergraduate course on Automata and Compiler Design.
 </p>
 
 Github repo [here](https://github.com/rishabkdoshi/RegexEngine).
