@@ -29,6 +29,6 @@ $ whoami<br>rkd
     
 More about me:
     
-[CV](/CV.pdf) <br>
+My [resume](/CV.pdf) <br>
 [Timeline](/rishab-timeline/) of my life. <br>
 Some [people](/category/muse/) I look up to. <br>
