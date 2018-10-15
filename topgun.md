@@ -16,7 +16,7 @@ description: >
 hide_description: true
 
 # Setting `menu` will generate an entry in the sidebar.
-menu: false
+menu: true
 ---
 
 Topgun is a quarterly award given to <5 out of 700+ engineers at Intuit, India. <br>
