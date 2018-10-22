@@ -33,7 +33,7 @@ Built full stack applications that fetched data from a warehouse and created eas
 </p>
 ### Test Execution Platform
 <p style="text-align: justify;text-justify: inter-word;">
-This was my first project at Intuit, India. TEP provided testing infrastructure for web and mobile applications as a service. I was a lead developer on TEP mobile, where we built an on-demand cross-platform(Android,iOS) testing grid for use by all of Intuit product teams.
+This was my first project at Intuit, India. TEP provided testing infrastructure for web and mobile applications as a service. I was a lead developer on TEP mobile, where we built an on-demand cross-platform(Android,iOS) testing grid for use by all of Intuit product teams. This was a part of the CICD pipeline at Intuit.
 </p>
 
 ### Misc: 
