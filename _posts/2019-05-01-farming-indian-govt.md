@@ -69,7 +69,7 @@ Commercialization and selling of cash crops like Coffee, Dry-Fruits is permissib
 
 These public policies which started out to help farmers have in-turn actually entrapped them in a cycle of unending dependence on the Government. 
 
-<b>Although, this was an unseen effect, what is unseen need not be unforeseeable, consult economists who can analyze longer term implications of your policies and pay heed to their advice.</b>
+<b>Although, this was an unseen effect, what is unseen need not be unforeseeable </b>.  consult economists who can analyze longer term implications of your policies and pay heed to their advice.
 
 
 ### Parallels to Computer Science
